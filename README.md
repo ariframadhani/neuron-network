@@ -1,2 +1,2 @@
-# neuron-network
+# Neuron Network
 Neuron network using python
